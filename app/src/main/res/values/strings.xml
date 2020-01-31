@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycler View Test</string>
+    <string name="drawer_button">Open Drawer</string>
+
+</resources>
